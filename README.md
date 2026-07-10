@@ -2,7 +2,8 @@
 
 > An intelligent AI-powered CSV Importer that automatically extracts and maps lead information from any CSV format into the GrowEasy CRM schema using Large Language Models (LLMs).
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success)](https://your-vercel-url.vercel.app)
+
 ![React](https://img.shields.io/badge/React-18-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-green)
