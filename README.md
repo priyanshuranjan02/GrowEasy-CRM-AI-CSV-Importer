@@ -246,15 +246,6 @@ Install dependencies
 npm install
 ```
 
-Create environment file
-
-```env
-VITE_SUPABASE_URL=https://dxtvmmbvmnuhnpwxukek.supabase.co
-
-VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR4dHZtbWJ2bW51aG5wd3h1a2VrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODM1OTk5NDEsImV4cCI6MjA5OTE3NTk0MX0.mUIUAcWX0QClswndQI0f66ZQ5SNlzpWgqLP6dfYWWWo
-
-GEMINI_API_KEY=AQ.Ab8RN6IyTeTLsVOaQ7dlmxbCX0oAzLBiHmbe492NoQ0Fz3kgpQ
-```
 
 Run frontend
 
@@ -266,18 +257,6 @@ Run backend
 
 ```bash
 npm run server
-```
-
----
-
-# 🌐 Environment Variables
-
-```env
-GEMINI_API_KEY=AQ.Ab8RN6IyTeTLsVOaQ7dlmxbCX0oAzLBiHmbe492NoQ0Fz3kgpQ
-
-VITE_SUPABASE_URL=https://dxtvmmbvmnuhnpwxukek.supabase.co
-
-VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR4dHZtbWJ2bW51aG5wd3h1a2VrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODM1OTk5NDEsImV4cCI6MjA5OTE3NTk0MX0.mUIUAcWX0QClswndQI0f66ZQ5SNlzpWgqLP6dfYWWWo
 ```
 
 ---
